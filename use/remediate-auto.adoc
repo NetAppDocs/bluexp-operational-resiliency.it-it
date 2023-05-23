@@ -1,0 +1,46 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-auto.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: 'Se è stata selezionata l"opzione di correzione, il servizio può implementare la correzione per l"utente.' 
+---
+= Risolvere il problema automaticamente
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Se è stata selezionata l'opzione *bonifica* nella resilienza operativa di BlueXP, il servizio può implementare la soluzione.
+
+.Fasi
+. Dalla barra di navigazione a sinistra di BlueXP, selezionare *Health* > *resilienza operativa* > *Risk Remediation*.
+. Dalla pagina Risk Remediation (correzione dei rischi), ordinare in base alla colonna Impact Level (livello di impatto) per visualizzare prima i rischi più elevati.
+. Selezionare il rischio e scegliere *Risolvi il rischio*.
+. Per ciascun cluster, selezionare *bonifica*.
++
+A seconda del problema, vengono visualizzate le istruzioni. Alcune delle opzioni di questa pagina non vengono visualizzate se esiste un connettore BlueXP o se è noto un cluster.
+
++
+** Se un connettore non esiste o non è ancora attivato, il servizio visualizza la pagina Create a Connector (Crea un connettore), in cui è possibile creare il connettore. Se il connettore esiste, ma non è attivo, è necessario attivarlo nel servizio del provider cloud.
++
+Fare riferimento alla documentazione di BlueXP che descrive https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["Come creare un connettore"^].
+
+** Se non esiste un cluster, il servizio visualizza una pagina in cui identificare il cluster.
++
+Fare riferimento alla documentazione di BlueXP che spiega https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["come identificare il cluster"^].
+
+
+
+. Una volta implementato il connettore e rilevato il cluster, esaminare la soluzione.
++
+Se è stata selezionata l'opzione *Correggi* per consentire al servizio di implementare la correzione, viene visualizzata la pagina Revisione ed esecuzione della correzione richiesta.
+
+. Esaminare i rischi e altre informazioni.
+. Selezionare *Esegui*.
++
+Questa azione implementa il connettore (se non è già stato fatto), rileva il cluster, scarica la correzione e implementa automaticamente la correzione sul cluster selezionato.
+
+. Per visualizzare lo stato della correzione, prendere nota del nome del cluster nella pagina Remediation Status (Stato correzione).
+

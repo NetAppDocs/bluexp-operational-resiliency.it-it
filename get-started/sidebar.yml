@@ -1,0 +1,16 @@
+---
+section: get-started
+title: Inizia subito
+entries:
+- title: Scopri la resilienza operativa di BlueXP
+  url: "/get-started/intro.html"
+- title: Prerequisiti
+  url: "/get-started/prerequisites.html"
+- title: Avvio rapido
+  url: "/get-started/quick-start.html"
+- title: Impostare la resilienza operativa di BlueXP
+  url: "/get-started/setup.html"
+- title: Accedere alla resilienza operativa BlueXP
+  url: "/get-started/login.html"
+- title: FAQ
+  url: "/get-started/faq.html"

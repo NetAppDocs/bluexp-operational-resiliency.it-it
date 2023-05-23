@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: get-started/setup.html 
+keywords: bluexp, operational resiliency, risk remediate 
+summary: 'Il primo passo verso l"utilizzo del servizio di resilienza operativa BlueXP consiste nel rendere disponibili i dati dagli strumenti di monitoraggio del tuo ambiente.' 
+---
+= Impostare la resilienza operativa di BlueXP
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+Il primo passo verso l'utilizzo della resilienza operativa di BlueXP consiste nel rendere disponibili i dati dagli strumenti di monitoraggio del tuo ambiente.
+
+La configurazione del servizio richiede i seguenti passaggi:
+
+* Revisione link:../get-started/prerequisites.html["prerequisiti"] per garantire che il tuo ambiente sia pronto
+* Facoltativamente, prima di utilizzare il servizio, creare un connettore in BlueXP
+* Facoltativamente, prima di utilizzare il servizio, individuare il cluster in BlueXP
+
+
+
+
+== Creare un connettore in BlueXP
+
+Un connettore BlueXP include credenziali per le macchine NetApp ONTAP in modo che il servizio di resilienza operativa possa fornire consigli sui rischi per la sicurezza ed eseguire le correzioni.
+
+È possibile creare un connettore direttamente in BlueXP e utilizzarlo nel servizio di resilienza operativa. In alternativa, è possibile avviare il processo di analisi del cluster e, nel corso di tale processo, implementare il connettore.
+
+Per creare un connettore in BlueXP prima di utilizzare il servizio, fare riferimento alla documentazione di BlueXP che descrive https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["Come creare un connettore"^].
+
+
+
+== Scopri il cluster in BlueXP
+
+Parte dell'installazione implica l'identificazione del nome del cluster, dell'IP, del nome utente e della password in BlueXP.
+
+Per istruzioni, fare riferimento alla documentazione di BlueXP che spiega https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["come identificare il cluster"^].

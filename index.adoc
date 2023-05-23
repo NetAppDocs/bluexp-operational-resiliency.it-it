@@ -1,0 +1,15 @@
+---
+layout: landing-page 
+sidebar: sidebar 
+permalink: index.html 
+summary: 'La resilienza operativa di BlueXP è un servizio che consente di analizzare avvisi ed eventi per mantenere lo stato di salute, l"uptime e le performance di servizi e soluzioni. Utilizzando il servizio di resilienza operativa e i suoi suggerimenti per la risoluzione automatizzata dei rischi operativi IT, è possibile implementare le soluzioni suggerite prima che si verifichi un"interruzione o un guasto.' 
+---
+= Resilienza operativa BlueXP
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+

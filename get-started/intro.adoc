@@ -1,0 +1,50 @@
+---
+sidebar: sidebar 
+permalink: get-started/intro.html 
+keywords: how bluexp operational resiliency works, what is operational resiliency, bluexp 
+summary: 'La resilienza operativa di BlueXP è un servizio che consente di analizzare avvisi ed eventi per mantenere lo stato di salute, l"uptime e le performance di servizi e soluzioni. Utilizzando il servizio di resilienza operativa e i suoi suggerimenti di correzione operativa IT automatizzati, puoi implementare le soluzioni suggerite prima che si verifichi un"interruzione o un guasto.' 
+---
+= Scopri la resilienza operativa di BlueXP
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/concepts/
+
+
+[role="lead"]
+La resilienza operativa di BlueXP è un servizio che consente di analizzare avvisi ed eventi per mantenere lo stato di salute, l'uptime e le performance di servizi e soluzioni. Utilizzando il servizio di resilienza operativa e i suoi suggerimenti per la risoluzione automatizzata dei rischi operativi IT, è possibile implementare le soluzioni suggerite prima che si verifichi un'interruzione o un guasto.
+
+Questo servizio BlueXP implementa le soluzioni ai cluster NetApp ONTAP in base alla guida di BlueXP Digital Advisor (Active IQ). Il servizio rileva vulnerabilità di sicurezza, come problemi di configurazione del firmware e del software.
+
+
+
+== Vantaggi dell'utilizzo della resilienza operativa di BlueXP
+
+La resilienza operativa di BlueXP offre i seguenti vantaggi:
+
+* Procedure automatizzate per le correzioni sul cluster
+* Vista di riepilogo nella dashboard che mostra lo stato di ciascuna correzione dei rischi
+* Log che consente di tenere traccia delle diverse azioni intraprese
+
+
+
+
+== Cosa puoi fare con la resilienza operativa di BlueXP
+
+Utilizzando il servizio di resilienza operativa, è possibile raggiungere i seguenti obiettivi:
+
+* Utilizza flussi di lavoro automatizzati che ti aiutano a rilevare i rischi che influiscono sull'ambiente di storage e a intraprendere azioni per mitigarli.
+* Esaminare e agire in base ai consigli operativi, ad esempio i problemi relativi alle vulnerabilità della sicurezza.
+
+
+
+
+== Costo
+
+NetApp non addebita alcun costo per l'utilizzo del servizio.
+
+
+
+== Ambienti supportati
+
+La resilienza operativa BlueXP analizza i cluster NetApp ONTAP on-premise.

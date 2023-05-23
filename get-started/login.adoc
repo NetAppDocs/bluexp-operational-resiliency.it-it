@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: get-started/login.html 
+keywords: bluexp login, risk remediation log in, operational resiliency 
+summary: Inizia con il servizio di resilienza operativa accedendo al servizio in BlueXP. 
+---
+= Accedere alla resilienza operativa BlueXP
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+È possibile utilizzare la resilienza operativa di BlueXP accedendo a NetApp BlueXP.
+
+Per accedere a BlueXP, puoi utilizzare le credenziali del sito di supporto NetApp oppure iscriverti per un login cloud NetApp utilizzando la tua email e una password. https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["Scopri di più sull'accesso"^].
+
+.Fasi
+. Aprire un browser Web e accedere a. https://console.bluexp.netapp.com/["Console BlueXP"].
++
+Viene visualizzata la pagina di accesso a NetApp BlueXP.
+
+. Accedere a BlueXP.
+. Dalla barra di navigazione a sinistra di BlueXP, selezionare *Health* > *Operational Resiliency* (resilienza operativa).
+

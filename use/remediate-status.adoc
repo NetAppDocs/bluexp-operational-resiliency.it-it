@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-status.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: È possibile verificare lo stato di un rimedio in qualsiasi momento. Puoi vedere se è in esecuzione, completato o non riuscito. 
+---
+= Esaminare lo stato di risoluzione dei problemi
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+È possibile verificare lo stato di un rimedio in qualsiasi momento. Puoi vedere se è in esecuzione, completato o non riuscito.
+
+.Fasi
+. Dalla barra di navigazione a sinistra di BlueXP, selezionare *Health* > *Operational resiliency* > *Remediation status*.
++
+Viene visualizzata la pagina Remediation Status (Stato rimedio).
+
+. Per visualizzare i dettagli di un problema, selezionare il problema per espanderlo.
+

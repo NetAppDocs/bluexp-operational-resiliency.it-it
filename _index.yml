@@ -1,0 +1,39 @@
+---
+indexpage:
+  lead: La resilienza operativa di BlueXP è un servizio che consente di analizzare
+    avvisi ed eventi per mantenere lo stato di salute, l'uptime e le performance di
+    servizi e soluzioni. Utilizzando il servizio di resilienza operativa e i suoi
+    suggerimenti per la risoluzione automatizzata dei rischi operativi IT, è possibile
+    implementare le soluzioni suggerite prima che si verifichi un'interruzione o un
+    guasto.
+  tiles:
+  - title: Inizia subito
+    links:
+    - title: Scopri la resilienza operativa di BlueXP
+      url: "/get-started/intro.html"
+    - title: Novità
+      url: "/release-notes/whats-new.html"
+    - title: Avvio rapido
+      url: "/get-started/quick-start.html"
+    - title: Prerequisiti
+      url: "/get-started/prerequisites.html"
+    - title: Accedere al servizio su BlueXP
+      url: "/get-started/login.html"
+    - title: FAQ
+      url: "/get-started/faq.html"
+  - title: Utilizza la resilienza operativa di BlueXP
+    links:
+    - title: Esaminare e risolvere i problemi di sicurezza
+      url: "/use/remediate-overview.html"
+    - title: Risolvere i problemi automaticamente
+      url: "/use/remediate-auto.html"
+    - title: Risolvere i problemi utilizzando un playbook Ansible
+      url: "/use/remediate-ansible.html"
+    - title: Determinare lo stato di correzione dei rischi
+      url: "/use/remediate-status.html"
+  - title: Blog e community
+    links:
+    - title: Community NetApp
+      url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+    - title: Webinar sul cloud
+      url: https://bluexp.netapp.com/events

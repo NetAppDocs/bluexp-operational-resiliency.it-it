@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: get-started/prerequisites.html 
+keywords: what are bluexp operational resiliency requirements, economic efficiency prerequisites 
+summary: 'Inizia a utilizzare il servizio di resilienza operativa BlueXP verificando il supporto per il tuo ambiente, l"accesso alla rete, l"accesso e il browser Web.' 
+---
+= Prerequisiti per la resilienza operativa di BlueXP
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+Inizia verificando la preparazione del tuo ambiente operativo, dell'accesso, dell'accesso alla rete e del browser Web.
+
+Per utilizzare il servizio di resilienza operativa, devi assicurarti che il tuo ambiente soddisfi tutti i requisiti.
+
+* L'ambiente deve soddisfare tutti i requisiti di BlueXP, inclusi accesso e accesso alla rete da un browser Web.
++
+Fare riferimento a. https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-quick-start-standard-mode.html["Avvio rapido di BlueXP"^] e. https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-networking-saas-console.html["Informazioni di rete BlueXP"^].
+
+* Il servizio richiede che tutti i cluster siano monitorati da BlueXP Digital Advisor (Active IQ), che richiede l'attivazione di AutoSupport sulla risorsa. Fare riferimento a. https://docs.netapp.com/us-en/active-iq/index.html["Documentazione di BlueXP Digital Advisor"^].
+* È necessario disporre delle credenziali di accesso ai cluster.
+* Per la risoluzione automatica dei problemi, è necessario un connettore BlueXP. È utile che BlueXP Connector sia installato e attivato e che il sistema ONTAP venga rilevato prima di iniziare la risoluzione utilizzando la resilienza operativa di BlueXP. Se il connettore non è in posizione, il servizio di resilienza operativa guida l'utente attraverso tali processi. Se invece si esegue la correzione utilizzando un file Ansible, BlueXP Connector non è necessario.
+
