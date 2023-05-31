@@ -7,7 +7,6 @@
   <block id="3bb4638459c9fa17eee7502169bd253e" category="list-text">L'ambiente deve soddisfare tutti i requisiti di BlueXP, inclusi accesso e accesso alla rete da un browser Web.</block>
   <block id="69b085a23d3ed85c84455b9288792bf2" category="inline-link">Avvio rapido di BlueXP</block>
   <block id="45e7f38a8238b36c23e85bbe6436ba0b" category="inline-link">Informazioni di rete BlueXP</block>
-  <block id="ab38a54ae4da8a4cab463c7bb64ef70a" category="paragraph">Fare riferimento a.<block ref="4b1866f17dc6bd66f88d9d6839084df6" category="inline-link-rx"></block> e.<block ref="8b2e3c99c244ff11d22f3c561bd167b2" category="inline-link-rx"></block>.</block>
   <block id="4047eed73fb147faca2a60e49cd11bd3" category="inline-link">Documentazione di BlueXP Digital Advisor</block>
   <block id="79489f774fae583d2ef44553677325d2" category="list-text">Il servizio richiede che tutti i cluster siano monitorati da BlueXP Digital Advisor (Active IQ), che richiede l'attivazione di AutoSupport sulla risorsa. Fare riferimento a.<block ref="28ad866a93984325ed92c672458a0234" category="inline-link-rx"></block>.</block>
   <block id="a3538d61b66c68f21178c789ab57dc45" category="list-text">È necessario disporre delle credenziali di accesso ai cluster.</block>
@@ -43,7 +42,6 @@
   <block id="6f7b158d0662fd423bbeceb4a59992b4" category="doc">Accedere alla resilienza operativa BlueXP</block>
   <block id="d33320e0d61928503491f6a66c6c3f74" category="paragraph">È possibile utilizzare la resilienza operativa di BlueXP accedendo a NetApp BlueXP.</block>
   <block id="8e917942a77709dfd28c155f42a97553" category="inline-link">Scopri di più sull'accesso</block>
-  <block id="137f465ff17e307c6d821b8f1d37049b" category="paragraph">Per accedere a BlueXP, puoi utilizzare le credenziali del sito di supporto NetApp oppure iscriverti per un login cloud NetApp utilizzando la tua email e una password.<block ref="83012c4a40bb3321733997744c83daa9" category="inline-link-rx"></block>.</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">Fasi</block>
   <block id="5975f7e9036c78e6217b16f295f0ca75" category="inline-link">Console BlueXP</block>
   <block id="36c53a7c1d567e72b555e7c672926fcc" category="list-text">Aprire un browser Web e accedere a.<block ref="c7cac890d256b6982a3b913952a758f2" category="inline-link-rx"></block>.</block>
@@ -84,22 +82,17 @@
   <block id="12c974d821c2a657f06d04bb173ce05d" category="paragraph">Un connettore BlueXP include credenziali per le macchine NetApp ONTAP in modo che il servizio di resilienza operativa possa fornire consigli sui rischi per la sicurezza ed eseguire le correzioni.</block>
   <block id="38be59bd2061124d4a321a548ce7ca38" category="paragraph">È possibile creare un connettore direttamente in BlueXP e utilizzarlo nel servizio di resilienza operativa. In alternativa, è possibile avviare il processo di analisi del cluster e, nel corso di tale processo, implementare il connettore.</block>
   <block id="3f624a766d0a17837224c7064f0a0e10" category="inline-link">Come creare un connettore</block>
-  <block id="c5f0acc09d423dc51382ed54c88e4df7" category="paragraph">Per creare un connettore in BlueXP prima di utilizzare il servizio, fare riferimento alla documentazione di BlueXP che descrive<block ref="b4ada8616e90b2199887f57c6ea93933" category="inline-link-rx"></block>.</block>
   <block id="8cb57f3692a9a95873b528375ca802ad" category="section-title">Scopri il cluster in BlueXP</block>
   <block id="6ac16908cedf4f30facecaf3b473c7de" category="paragraph">Parte dell'installazione implica l'identificazione del nome del cluster, dell'IP, del nome utente e della password in BlueXP.</block>
   <block id="fd7ba781ed31347905680b56f58f3835" category="inline-link">come identificare il cluster</block>
-  <block id="77edd12846ceca08a63e1059865b1044" category="paragraph">Per istruzioni, fare riferimento alla documentazione di BlueXP che spiega<block ref="20b708c671b065a2812094c911bf9a2e" category="inline-link-rx"></block>.</block>
   <block id="243263104c829e77835d632f591230d5" category="summary">Prima di aprire un caso di supporto con il supporto tecnico NetApp, è necessario aggiungere un account NetApp Support Site a BlueXP e registrarsi per il supporto.</block>
   <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">Registrati per ricevere assistenza</block>
   <block id="8bf30fadf784022b073adb9233678a71" category="paragraph">Prima di aprire un caso di supporto con il supporto tecnico NetApp, è necessario aggiungere un account NetApp Support Site (NSS) a BlueXP e quindi registrarsi per il supporto.</block>
   <block id="0375f4855be072c7d856a0233cc21de9" category="section-title">Supporto per le soluzioni cloud provider</block>
   <block id="be845c219bb74b14349ffa6e27e7aef3" category="paragraph">Per il supporto tecnico sulle seguenti soluzioni di cloud provider integrate in BlueXP, fare riferimento alla sezione "Assistenza" nella documentazione BlueXP relativa a tale prodotto.</block>
   <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">Amazon FSX per ONTAP</block>
-  <block id="5bf5309465f91318228a7f956b826348" category="list-text"><block ref="5bf5309465f91318228a7f956b826348" category="inline-link-macro-rx"></block></block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Files</block>
-  <block id="0e2bc9c853e0af52ead12823c025e58b" category="list-text"><block ref="0e2bc9c853e0af52ead12823c025e58b" category="inline-link-macro-rx"></block></block>
   <block id="b0cee72642f5457a71ddd0b49efb6d93" category="inline-link-macro">Cloud Volumes Service per Google Cloud</block>
-  <block id="02efcbea18b9485a78a41871dce1e64d" category="list-text"><block ref="02efcbea18b9485a78a41871dce1e64d" category="inline-link-macro-rx"></block></block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">Panoramica sulla registrazione del supporto</block>
   <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">Esistono due forme di registrazione per attivare i diritti di supporto:</block>
   <block id="2322ca552c2b0ebe090c8485519246a8" category="list-text">Registrazione dell'abbonamento al supporto per l'ID account BlueXP (il numero di serie a 20 cifre 960xxxxxxxxx nella pagina Support Resources di BlueXP).</block>
@@ -122,7 +115,6 @@
   <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">Se disponi di un account partner o reseller, puoi aggiungere uno o più account NSS, ma non possono essere aggiunti insieme agli account a livello di cliente.</block>
   <block id="1afe19576f77bb0073c93359ed2cbb18" category="list-text">Nella parte superiore destra della console BlueXP, fare clic sull'icona Guida e selezionare *supporto*.</block>
   <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">Schermata del menu Help (Guida) in cui Support (Assistenza) è la prima opzione elencata</block>
-  <block id="868d9aa88f16ea923af1d15eac5d2647" category="paragraph"><block ref="868d9aa88f16ea923af1d15eac5d2647" category="inline-image-macro-rx" type="image"></block></block>
   <block id="d17d6b5dafebab6b7659da8850737e70" category="list-text">Fare clic su *Gestione NSS &gt; Aggiungi account NSS*.</block>
   <block id="8aaf101e623c543c7eef3c65f6233366" category="list-text">Quando richiesto, fare clic su *Continue* per essere reindirizzati a una pagina di accesso Microsoft.</block>
   <block id="19d089db572ee6a1e154a0c9c9e57bfd" category="paragraph">NetApp utilizza Microsoft Azure Active Directory come provider di identità per i servizi di autenticazione specifici per il supporto e la concessione di licenze.</block>
@@ -135,8 +127,6 @@
   <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">Lo stesso vale se si dispone di account NSS a livello di cliente preesistenti e si tenta di aggiungere un account a livello di partner.</block>
   <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">Una volta effettuato l'accesso, NetApp memorizzerà il nome utente NSS.</block>
   <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">Un'icona di tre punti orizzontali</block>
-  <block id="452cd4df7b0d5eb1156519a2f3b0206b" category="paragraph">Si tratta di un ID generato dal sistema che viene mappato all'e-mail. Nella pagina *NSS Management*, è possibile visualizzare l'e-mail da <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> menu.</block>
-  <block id="fd02e84624a2fdfd58787131aa2820b5" category="list-text">Se è necessario aggiornare i token delle credenziali di accesso, è disponibile anche l'opzione *Update Credentials* (Aggiorna credenziali) in <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> menu.</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">Questa opzione richiede di effettuare nuovamente l'accesso. Il token per questi account scade dopo 90 giorni. Verrà inviata una notifica per avvisare l'utente.</block>
   <block id="ad56c7289bc13dcf4f78c285f7f03878" category="section-title">Registrati con NetApp</block>
   <block id="f1bac79c2c71fbd93863b9fbd718094c" category="paragraph">La modalità di registrazione al supporto NetApp dipende dal fatto che si disponga già di un account NetApp Support Site (NSS).</block>
@@ -145,7 +135,6 @@
   <block id="25b94e7b58140f12be91fa8fd935fa59" category="list-text">Se non l'hai ancora fatto, Aggiungi il tuo account NSS a BlueXP.</block>
   <block id="819aff12752b7e6a1828e755c7664de7" category="list-text">Nella pagina *risorse*, fare clic su *Registra per il supporto*.</block>
   <block id="e8a3d9970b8fc1d92caaf33d9e116bd4" category="inline-image-macro">Una schermata che mostra il numero di serie di un account e l'opzione Registra per il supporto</block>
-  <block id="113f9cd7bac6f4faa6b8d58e3e099a8e" category="paragraph"><block ref="113f9cd7bac6f4faa6b8d58e3e099a8e" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">Cliente esistente ma nessun account NSS</block>
   <block id="cc1d3c161bcf25e6445c2fc771647849" category="paragraph">Se sei già un cliente NetApp con licenze e numeri di serie esistenti ma _no_ account NSS, devi solo creare un account NSS.</block>
   <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">Modulo di registrazione per l'utente del sito di supporto NetApp</block>
@@ -155,7 +144,6 @@
   <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">Novità di NetApp</block>
   <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">Se sei nuovo di NetApp e non disponi di un account NSS, segui i passaggi riportati di seguito.</block>
   <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">Individuare il numero di serie dell'ID account nella pagina Support Registration (registrazione supporto).</block>
-  <block id="ef5e63bb6b6827440a13cc2ec7e9cf56" category="paragraph"><block ref="ef5e63bb6b6827440a13cc2ec7e9cf56" category="inline-image-macro-rx" type="image"></block></block>
   <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">Sito per la registrazione del supporto NetApp</block>
   <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">Selezionare<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> E selezionare *non sono un cliente NetApp registrato*.</block>
   <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">Compilare i campi obbligatori (con asterischi rossi).</block>
@@ -204,7 +192,6 @@
   <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*Allegato (opzionale)*: Carica fino a cinque allegati, uno alla volta.</block>
   <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">Gli allegati sono limitati a 25 MB per file. Sono supportate le seguenti estensioni di file: Txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx e csv.</block>
   <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">Schermata del modulo Crea un caso che consente di creare un caso con il supporto NetApp.</block>
-  <block id="a2ff30886e1baf1e7d5045b5fc24f5b9" category="paragraph"><block ref="a2ff30886e1baf1e7d5045b5fc24f5b9" category="inline-image-macro-rx" type="image"></block></block>
   <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">Viene visualizzata una finestra a comparsa con il numero del caso di supporto. Uno specialista del supporto NetApp esaminerà il tuo caso e ti contatterà al più presto.</block>
   <block id="04e15da1deae9568b4dcda64fbb0c8d5" category="paragraph">Per una cronologia dei casi di supporto, fare clic su *Impostazioni &gt; Cronologia* e cercare le azioni denominate "Crea caso di supporto". Un pulsante all'estrema destra consente di espandere l'azione per visualizzare i dettagli.</block>
   <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">È possibile che venga visualizzato il seguente messaggio di errore quando si tenta di creare un caso:</block>
@@ -228,21 +215,15 @@
   <block id="27635a52fe4c34c39ffc6430f4244ec6" category="list-text">In *Organization's Cases* (casi dell'organizzazione), fare clic su *View* (Visualizza) per visualizzare tutti i casi associati alla società.</block>
   <block id="059e856250b59be3069246887b74a23c" category="list-text">Modificare l'intervallo di date scegliendo un intervallo di date esatto o scegliendo un intervallo di tempo diverso.</block>
   <block id="dfb3764bce2548df4e06357403f9c7d0" category="inline-image-macro">Una schermata dell'opzione sopra la tabella nella pagina di gestione del caso che consente di scegliere un intervallo di date esatto o gli ultimi 7 giorni, 30 giorni o 3 mesi.</block>
-  <block id="7fcba8aeefa9960d3fc3fa08b360ba2e" category="paragraph"><block ref="7fcba8aeefa9960d3fc3fa08b360ba2e" category="inline-image-macro-rx" type="image"></block></block>
   <block id="a1bb576be9e5a356290f231efb51b3f5" category="list-text">Filtrare il contenuto delle colonne.</block>
   <block id="3753f10a59e21f58b30e3e67d416453e" category="inline-image-macro">Schermata dell'opzione di filtro nella colonna Status (Stato) che consente di filtrare i casi che corrispondono a uno stato specifico, ad esempio attivo o chiuso.</block>
-  <block id="37709be3a43df07d5975287545d0ba12" category="paragraph"><block ref="37709be3a43df07d5975287545d0ba12" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1c6ea5ef583389e18e7d7bda70beaa71" category="inline-image-macro">L'icona più visualizzata nella tabella</block>
-  <block id="1614dc8e47c0492434152c990d6c1040" category="list-text">Modificare le colonne visualizzate nella tabella facendo clic su <block ref="effeab06130cddc8360822b2b706805b" category="inline-image-macro-rx" type="image"></block> e quindi scegliere le colonne che si desidera visualizzare.</block>
   <block id="370b44009f1b82d0b6b178bb80cc62fa" category="inline-image-macro">Una schermata che mostra le colonne che è possibile visualizzare nella tabella.</block>
-  <block id="5de408d7cbad49634fb25f9047498132" category="paragraph"><block ref="5de408d7cbad49634fb25f9047498132" category="inline-image-macro-rx" type="image"></block></block>
   <block id="ad0ae9ea1f2e8d973a9a0f6bb169f494" category="inline-image-macro">Un'icona con tre punti che compare nell'ultima colonna della tabella</block>
-  <block id="98efef1c8a47ed5791b41944e8ff4ec2" category="list-text">Gestire un caso esistente facendo clic su <block ref="a0b152b50a56901a75affebabc26ed61" category="inline-image-macro-rx" type="image"></block> e selezionando una delle opzioni disponibili:</block>
   <block id="6d9dd74e7709ef802d299966f7898f6b" category="list-text">*Visualizza caso*: Visualizza tutti i dettagli relativi a un caso specifico.</block>
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*Aggiorna note sul caso*: Fornisci ulteriori dettagli sul problema oppure seleziona *carica file* per allegare fino a un massimo di cinque file.</block>
   <block id="f791bc685c526af8296381acff10f6a0" category="list-text">*Chiudi caso*: Fornisci i dettagli sul motivo per cui stai chiudendo il caso e fai clic su *Chiudi caso*.</block>
   <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">Una schermata che mostra le azioni che è possibile eseguire dopo aver selezionato il menu nell'ultima colonna della tabella.</block>
-  <block id="e9a5c374fb47ed2ae5cc6108fb36d829" category="paragraph"><block ref="e9a5c374fb47ed2ae5cc6108fb36d829" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1837fb593fca116cb417fa9ca07091c1" category="summary">Scopri le novità della resilienza operativa di BlueXP.</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">Novità</block>
   <block id="88c49608e723add593f5becc8bd9a968" category="section-title">02 aprile 2023</block>
@@ -319,9 +300,7 @@
   <block id="1e19b0a3a63298e82247e47a78a5a04c" category="list-text">Dalla pagina Risk Remediation (correzione dei rischi), ordinare in base alla colonna Impact Level (livello di impatto) per visualizzare prima i rischi più elevati.</block>
   <block id="2ff7e6e819d1c3351da49fb9076ea7f6" category="paragraph">A seconda del problema, vengono visualizzate le istruzioni. Alcune delle opzioni di questa pagina non vengono visualizzate se esiste un connettore BlueXP o se è noto un cluster.</block>
   <block id="216a481d8cb3895627e1a95211130d00" category="list-text">Se un connettore non esiste o non è ancora attivato, il servizio visualizza la pagina Create a Connector (Crea un connettore), in cui è possibile creare il connettore. Se il connettore esiste, ma non è attivo, è necessario attivarlo nel servizio del provider cloud.</block>
-  <block id="631fbc17fa0f995206eaf7677110248d" category="paragraph">Fare riferimento alla documentazione di BlueXP che descrive<block ref="b4ada8616e90b2199887f57c6ea93933" category="inline-link-rx"></block>.</block>
   <block id="82a3b3353123f51e6efb1de319a4a3af" category="list-text">Se non esiste un cluster, il servizio visualizza una pagina in cui identificare il cluster.</block>
-  <block id="f164503793033fa06dba0ecdec3a5be1" category="paragraph">Fare riferimento alla documentazione di BlueXP che spiega<block ref="20b708c671b065a2812094c911bf9a2e" category="inline-link-rx"></block>.</block>
   <block id="dc2ee7c9bfe56a12af0b4b38d766e214" category="list-text">Una volta implementato il connettore e rilevato il cluster, esaminare la soluzione.</block>
   <block id="7c770aba12cb31624e5a42e1c0b421d9" category="paragraph">Se è stata selezionata l'opzione *Correggi* per consentire al servizio di implementare la correzione, viene visualizzata la pagina Revisione ed esecuzione della correzione richiesta.</block>
   <block id="592899cba0155e8df6ff957e3c09bc55" category="list-text">Esaminare i rischi e altre informazioni.</block>
@@ -350,4 +329,25 @@
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Note di rilascio</block>
   <block id="dd76577d0fda67d24563883480d82c24" category="sidebar">Esaminare i problemi di sicurezza</block>
   <block id="fc42475b6d973f576b48ed3139510d1a" category="sidebar">Determinare lo stato di correzione</block>
+  <block id="ced81851323b82a0a118473d7d21488c" category="paragraph">Fare riferimento alla documentazione di BlueXP che descrive<block ref="5599e99d5b1188a4a5366e77f6c50e60" category="inline-link-rx"></block>.</block>
+  <block id="ad88620aad763667cadcacc5f27a7267" category="paragraph">Fare riferimento alla documentazione di BlueXP che spiega<block ref="bc202d349953b1cf39f5f1896c1213af" category="inline-link-rx"></block>.</block>
+  <block id="509259be6d5e15d8959f705cbe0cbcc1" category="paragraph"><block ref="509259be6d5e15d8959f705cbe0cbcc1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0972db30d942fdb65d1732e6e84bde99" category="paragraph"><block ref="0972db30d942fdb65d1732e6e84bde99" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="cb6a777dd3c6e43b0dc441d38519d219" category="paragraph"><block ref="cb6a777dd3c6e43b0dc441d38519d219" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0f6cac2f77150840994f84044fc1b12b" category="list-text">Modificare le colonne visualizzate nella tabella facendo clic su <block ref="b574dd55d604ddb721d869a0fc302007" category="inline-image-macro-rx" type="image"></block> e quindi scegliere le colonne che si desidera visualizzare.</block>
+  <block id="e65065c4fd326b9f3a1eeb9453c30d73" category="paragraph"><block ref="e65065c4fd326b9f3a1eeb9453c30d73" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6ba7d68d8b3ef0f3398afb9d3ea96172" category="list-text">Gestire un caso esistente facendo clic su <block ref="566c029d89e7d5421080767a37bf443e" category="inline-image-macro-rx" type="image"></block> e selezionando una delle opzioni disponibili:</block>
+  <block id="2ea260929e27ffcb623c8aa35689bd18" category="paragraph"><block ref="2ea260929e27ffcb623c8aa35689bd18" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9d06990508d25d367d9158c6558eb9c8" category="list-text"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
+  <block id="2e0c742f4616eb27b5b7646aa790edfe" category="list-text"><block ref="2e0c742f4616eb27b5b7646aa790edfe" category="inline-link-macro-rx"></block></block>
+  <block id="cf14bff66a8b72d3675db8ffe0f02ee3" category="list-text"><block ref="cf14bff66a8b72d3675db8ffe0f02ee3" category="inline-link-macro-rx"></block></block>
+  <block id="e8d4092baef6680c6a35d5228ae31de2" category="paragraph"><block ref="e8d4092baef6680c6a35d5228ae31de2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">Si tratta di un ID generato dal sistema che viene mappato all'e-mail. Nella pagina *NSS Management*, è possibile visualizzare l'e-mail da <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> menu.</block>
+  <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">Se è necessario aggiornare i token delle credenziali di accesso, è disponibile anche l'opzione *Update Credentials* (Aggiorna credenziali) in <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> menu.</block>
+  <block id="1bb5620ed3998fd776980cad36e22c9a" category="paragraph"><block ref="1bb5620ed3998fd776980cad36e22c9a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1761f86051ec9114ac2cb5961c8605d7" category="paragraph">Per accedere a BlueXP, puoi utilizzare le credenziali del sito di supporto NetApp oppure iscriverti per un login cloud NetApp utilizzando la tua email e una password.<block ref="192dac3a1352f6134fa7409c0b073570" category="inline-link-rx"></block>.</block>
+  <block id="7d7127ef879a78562b832b07e0467e4d" category="paragraph">Fare riferimento a.<block ref="dbb33dbf9eb2131f5e9c130f8d43d40b" category="inline-link-rx"></block> e.<block ref="80109aba99cda75e73f8aee37e8d3028" category="inline-link-rx"></block>.</block>
+  <block id="f4e5c82e893feba57328851639ec9859" category="paragraph">Per creare un connettore in BlueXP prima di utilizzare il servizio, fare riferimento alla documentazione di BlueXP che descrive<block ref="5599e99d5b1188a4a5366e77f6c50e60" category="inline-link-rx"></block>.</block>
+  <block id="aea35dabd05e7cc799f762de805f1ab8" category="paragraph">Per istruzioni, fare riferimento alla documentazione di BlueXP che spiega<block ref="bc202d349953b1cf39f5f1896c1213af" category="inline-link-rx"></block>.</block>
 </blocks>
