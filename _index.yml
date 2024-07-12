@@ -1,5 +1,13 @@
 ---
 indexpage:
+  title: Documentazione sulla resilienza operativa di BlueXP
+  summary: La resilienza operativa di BlueXP è un servizio che consente di analizzare
+    avvisi ed eventi per mantenere lo stato di salute, l'uptime e le performance di
+    servizi e soluzioni. Utilizzando il servizio di resilienza operativa e i suoi
+    suggerimenti per la risoluzione automatizzata dei rischi operativi IT, è possibile
+    implementare le soluzioni suggerite prima che si verifichi un'interruzione o un
+    guasto.
+  keywords: operational resiliency, bluexp, cluster, ontap
   lead: La resilienza operativa di BlueXP è un servizio che consente di analizzare
     avvisi ed eventi per mantenere lo stato di salute, l'uptime e le performance di
     servizi e soluzioni. Utilizzando il servizio di resilienza operativa e i suoi

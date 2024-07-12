@@ -185,8 +185,6 @@
   <block id="ae74e3db3615f676968300b7cc6e8ae1" category="paragraph">La resilienza operativa è un servizio che consente di analizzare avvisi ed eventi per mantenere lo stato di salute, l'uptime e le performance di servizi e soluzioni.</block>
   <block id="070849913b65c4cb130cf632f0ac2008" category="inline-link-macro">Scopri di più sulla resilienza operativa di BlueXP</block>
   <block id="6bea546ba36c0c8c8bed5d22ed6af63d" category="paragraph"><block ref="d51dda3e944cc19bf96c07e1874304d0" category="inline-link-macro-rx"></block>.</block>
-  <block id="84fa68bdcea2ad5e54b20ac851705b19" category="summary">Le limitazioni note identificano piattaforme, dispositivi o funzioni non supportate da questa release del servizio o che non interagiscono correttamente con esso.</block>
-  <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">Limitazioni</block>
   <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">Note legali</block>
   <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">Le note legali forniscono l'accesso a dichiarazioni di copyright, marchi, brevetti e altro ancora.</block>
   <block id="6016a2b341113bf496b719905398ecd2" category="section-title">Copyright</block>
@@ -257,8 +255,6 @@
   <block id="c226d28399dfd8c127b616b86c9d4fea" category="list-text">Selezionare *Esegui*.</block>
   <block id="3d154ebb21caa4aba05ea76bee8d7155" category="paragraph">Questa azione implementa il connettore (se non è già stato fatto), rileva il cluster, scarica la correzione e implementa automaticamente la correzione sul cluster selezionato.</block>
   <block id="93460c4c841eaa048fba6761437facac" category="list-text">Per visualizzare lo stato della correzione, prendere nota del nome del cluster nella pagina Remediation Status (Stato correzione).</block>
-  <block id="271a4aecd4217c716176f150130e85ab" category="summary">La resilienza operativa di BlueXP è un servizio che consente di analizzare avvisi ed eventi per mantenere lo stato di salute, l'uptime e le performance di servizi e soluzioni. Utilizzando il servizio di resilienza operativa e i suoi suggerimenti per la risoluzione automatizzata dei rischi operativi IT, è possibile implementare le soluzioni suggerite prima che si verifichi un'interruzione o un guasto.</block>
-  <block id="dd7c710b103a018a2046baa2f5052ed9" category="doc">Resilienza operativa BlueXP</block>
   <block id="93ac67116613ce3cad72da49b677b6ca" category="sidebar">La resilienza operativa di BlueXP è un servizio che consente di analizzare avvisi ed eventi per mantenere lo stato di salute, l'uptime e le performance di servizi e soluzioni. Utilizzando il servizio di resilienza operativa e i suoi suggerimenti per la risoluzione automatizzata dei rischi operativi IT, è possibile implementare le soluzioni suggerite prima che si verifichi un'interruzione o un guasto.</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Inizia subito</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">Novità</block>
@@ -355,4 +351,5 @@
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">Per supporto tecnico relativo a un file service di un cloud provider, alla sua infrastruttura o a una soluzione che utilizza il servizio, fare riferimento a "Guida in linea" nella documentazione BlueXP relativa a quel prodotto.</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">Per ricevere supporto tecnico specifico di BlueXP e delle relative soluzioni e servizi storage, utilizza le opzioni di supporto descritte di seguito.</block>
   <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp utilizza Microsoft Entra ID come provider di identità per i servizi di autenticazione specifici per il supporto e la licenza.</block>
+  <block id="6cd44b17ed7736e578a73cf34d46ca52" category="sidebar">Documentazione sulla resilienza operativa di BlueXP</block>
 </blocks>
