@@ -7,8 +7,6 @@
   <block id="3bb4638459c9fa17eee7502169bd253e" category="list-text">L'ambiente deve soddisfare tutti i requisiti di BlueXP, inclusi accesso e accesso alla rete da un browser Web.</block>
   <block id="69b085a23d3ed85c84455b9288792bf2" category="inline-link">Avvio rapido di BlueXP</block>
   <block id="45e7f38a8238b36c23e85bbe6436ba0b" category="inline-link">Informazioni di rete BlueXP</block>
-  <block id="4047eed73fb147faca2a60e49cd11bd3" category="inline-link">Documentazione di BlueXP Digital Advisor</block>
-  <block id="79489f774fae583d2ef44553677325d2" category="list-text">Il servizio richiede che tutti i cluster siano monitorati da BlueXP Digital Advisor (Active IQ), che richiede l'attivazione di AutoSupport sulla risorsa. Fare riferimento a.<block ref="28ad866a93984325ed92c672458a0234" category="inline-link-rx"></block>.</block>
   <block id="a3538d61b66c68f21178c789ab57dc45" category="list-text">È necessario disporre delle credenziali di accesso ai cluster.</block>
   <block id="b195ee77502e843664bcba163b60d4ad" category="list-text">Per la risoluzione automatica dei problemi, è necessario un connettore BlueXP. È utile che BlueXP Connector sia installato e attivato e che il sistema ONTAP venga rilevato prima di iniziare la risoluzione utilizzando la resilienza operativa di BlueXP. Se il connettore non è in posizione, il servizio di resilienza operativa guida l'utente attraverso tali processi. Se invece si esegue la correzione utilizzando un file Ansible, BlueXP Connector non è necessario.</block>
   <block id="b1151aae9531d2f5e85d085e8878cea6" category="summary">Queste FAQ possono essere utili se stai cercando una risposta rapida a una domanda.</block>
@@ -24,7 +22,6 @@
   <block id="490d590118714dd56e7c49c9dc1016d6" category="summary">La resilienza operativa di BlueXP è un servizio che consente di analizzare avvisi ed eventi per mantenere lo stato di salute, l'uptime e le performance di servizi e soluzioni. Utilizzando il servizio di resilienza operativa e i suoi suggerimenti di correzione operativa IT automatizzati, puoi implementare le soluzioni suggerite prima che si verifichi un'interruzione o un guasto.</block>
   <block id="e4062e43ecd3e9b66ed3efe3150aa1d3" category="doc">Scopri la resilienza operativa di BlueXP</block>
   <block id="5d84361178f8487227dcab9eb32e9312" category="paragraph">La resilienza operativa di BlueXP è un servizio che consente di analizzare avvisi ed eventi per mantenere lo stato di salute, l'uptime e le performance di servizi e soluzioni. Utilizzando il servizio di resilienza operativa e i suoi suggerimenti per la risoluzione automatizzata dei rischi operativi IT, è possibile implementare le soluzioni suggerite prima che si verifichi un'interruzione o un guasto.</block>
-  <block id="6b5aa1fcaf53fdb7faa3abc66c3936e3" category="paragraph">Questo servizio BlueXP implementa le soluzioni ai cluster NetApp ONTAP in base alla guida di BlueXP Digital Advisor (Active IQ). Il servizio rileva vulnerabilità di sicurezza, come problemi di configurazione del firmware e del software.</block>
   <block id="18096d7d55c678c44a691f68acf1192b" category="section-title">Vantaggi dell'utilizzo della resilienza operativa di BlueXP</block>
   <block id="bd92f54b050c6c9326ecedaec0f8f909" category="paragraph">La resilienza operativa di BlueXP offre i seguenti vantaggi:</block>
   <block id="62540663380c02ec00b1e7931e30617d" category="list-text">Procedure automatizzate per le correzioni sul cluster</block>
@@ -353,4 +350,7 @@
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">L'associazione delle credenziali NSS all'organizzazione BlueXP  è diversa dall'account NSS associato a un accesso utente BlueXP .</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">Queste credenziali NSS sono associate all'ID organizzazione BlueXP  specifico dell'utente. Gli utenti che appartengono all'organizzazione BlueXP  possono accedere a queste credenziali da *supporto &gt; Gestione NSS*.</block>
   <block id="ee97d7a6f8cd51410930ad6fd6c7d715" category="doc">Servizio di resilienza operativa di BlueXP </block>
+  <block id="5837045b4a274916acb6680b003d1c2b" category="paragraph">Questo servizio BlueXP  implementa delle correzioni ai cluster NetApp ONTAP basati sulla guida del consulente digitale Active IQ (detto anche consulente digitale). Il servizio rileva vulnerabilità di sicurezza, come problemi di configurazione del firmware e del software.</block>
+  <block id="ea7b2437ddd14dce6ba3f65494d634fd" category="inline-link">Documentazione di Digital Advisor</block>
+  <block id="d2a40e1969d512b879525670f7f544d5" category="list-text">Il servizio richiede che tutti i cluster siano monitorati da Digital Advisor, che richiede l'attivazione di AutoSupport sulla risorsa. Fare riferimento alla<block ref="5d1aa2fae9958ef5ced45eec5d13d250" category="inline-link-rx"></block>.</block>
 </blocks>
